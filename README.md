@@ -1,4 +1,4 @@
-# SeqIdCalc
+# VcfevalFilter
 
 Reclassifies the variants output by vcfeval that been incorrectly evaluated. It also checks for incorrect evaluation due to left-alignment of variants thus requires the reference FASTA file. New VCF files are written containing the corrected true positive, false positive and false negative calls. 
     
